@@ -1,0 +1,4 @@
+{
+    "command_type": "compute",
+    "expression": "((30+10)*5+1+1)"
+}
